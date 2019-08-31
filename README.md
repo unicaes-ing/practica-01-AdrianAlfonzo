@@ -1,1 +1,1 @@
-# practica-01-AdrianAlfonzo
+# Guía Practica 1: Programación Estructurada
