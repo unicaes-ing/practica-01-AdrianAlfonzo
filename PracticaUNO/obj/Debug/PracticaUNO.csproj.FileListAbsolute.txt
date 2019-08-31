@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\obj\Debug\PracticaUNO.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\obj\Debug\PracticaUNO.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\bin\Debug\PracticaUNO.exe.config
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\bin\Debug\PracticaUNO.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\bin\Debug\PracticaUNO.pdb
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\obj\Debug\PracticaUNO.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia1\PracticaUNO\obj\Debug\PracticaUNO.pdb
